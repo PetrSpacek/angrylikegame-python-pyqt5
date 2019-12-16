@@ -1,0 +1,1 @@
+from controller.qt.controller import QtGameController
